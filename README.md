@@ -60,7 +60,7 @@ Below is a curated comparison of fully managed commercial graph databases and cl
 
 ## 🚀 Open-Source GitHub Projects
 
-Explore the leading open-source property graphs, semantic RDF stores, PostgreSQL graph plugins, and embedded graph engines. Repositories are sorted by **GitHub Stars ⭐ (Descending)**.
+Explore the leading open-source property graphs, semantic RDF stores, PostgreSQL graph plugins, and embedded graph engines. Repositories are sorted by **GitHub_Stars ⭐ (Descending)**.
 
 ### 🏷️ Property Graph Databases
 
@@ -171,7 +171,7 @@ Contributions are warmly welcome! Please follow these simple steps:
 
 1. 🍴 **Fork the repository**.
 2. 📝 **Add or edit entries** in `README.md` (ensure formatting matches existing tables/lists).
-3. ℹ️ **Include essential details**: Name, URL link, star badge, 1–2 sentence description, pricing/scale details, and license.
+3. ℹ️ **Include essential details**: Name, URL link, Stars_Badge, 1–2 sentence description, pricing/scale details, and license.
 4. 🚀 **Submit a Pull Request** with a brief summary of additions.
 
 ---
